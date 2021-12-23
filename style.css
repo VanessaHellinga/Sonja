@@ -1,6 +1,6 @@
 body {
-    /* background-color: rgba(19, 173, 52, 0.966); */
-    background-image: url(/img/background.jpg);
+    background-color: rgba(19, 173, 52, 0.966);
+    /* background-image: url(/img/background.jpg); */
     background-size: 50%;
 }
 
